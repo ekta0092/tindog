@@ -21,3 +21,4 @@
    "name":"TinDog Account",
    "Program": "Platinum" // flat custom attributes
 });
+aptrinsic('bot', 'search', {labels: ['test_label']});
